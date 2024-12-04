@@ -43,9 +43,9 @@ function isPositive(number) {
   }else{
     return false
   }
-  return;
 }
 console.log(isPositive(3))
+console.log(isPositive())
 
 
 // Call the function to test each outcome (true & false) 
